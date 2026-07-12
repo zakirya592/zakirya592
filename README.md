@@ -1,9 +1,8 @@
 <div align="center">
   <img 
-    src="https://i.ibb.co/SDQryxF1/zakirya-removebg-preview-copy-removebg-preview.png" 
+    src="https://wsrv.nl/?url=i.ibb.co/SDQryxF1/zakirya-removebg-preview-copy-removebg-preview.png&w=200&h=200&fit=cover&mask=circle&border=5,38BDF8" 
     alt="Muhammad Zakirya" 
     width="200" 
-    style="border-radius: 50%; border: 5px solid #38BDF8; object-fit: cover; aspect-ratio: 1/1; box-shadow: 0 0 20px rgba(56, 189, 248, 0.5);"
   />
   
   <h1 style="margin-top: 10px;">Hi 👋 I'm Muhammad Zakirya</h1>
